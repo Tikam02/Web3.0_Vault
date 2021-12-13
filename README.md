@@ -208,3 +208,8 @@ Info and Documentation
 - https://www.moesif.com/blog/blockchain/ethereum/Tutorial-for-building-Ethereum-Dapp-with-Integrated-Error-Monitoring/
 
 - https://github.com/erowell/web3-learn
+
+## Tutorials 
+- How to create a Smart Contract to mint an NFT : https://dev.to/emanuelferreira/how-to-create-a-smart-contract-to-mint-a-nft-2bbn
+- How to create a motherf*cking NFT using Solidity : https://dev.to/abdulrauf11/how-to-create-a-motherfcking-nft-using-solidity-5b5d
+- HOW TO WRITE & DEPLOY AN NFT (PART 1/3 OF NFT TUTORIAL SERIES) : https://medium.com/coinmonks/guide-to-creating-your-own-nft-with-javascript-solidity-part-1-of-3-7909b80fae94
