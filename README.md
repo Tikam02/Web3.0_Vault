@@ -113,6 +113,13 @@ Info and Documentation
 - https://github.com/bancorprotocol/contracts-solidity
 
 - https://github.com/OpenZeppelin/openzeppelin-contracts
+  
+- https://medium.com/coinmonks/solidity-tutorial/home
+- https://medium.com/coinmonks/learn-all-about-solidity-ethereum-45d709c4de77
+- https://medium.com/coinmonks/how-to-learn-solidity-in-30-days-78b02e503d23
+- https://medium.com/coinmonks/learn-solidity-01-writing-your-first-smart-contract-528cad29ba99
+- https://medium.com/coinmonks/learn-all-about-solidity-ethereum-45d709c4de77
+- https://101blockchains.com/solidity-tutorial/
 
 ## Rust
 
@@ -207,6 +214,21 @@ Info and Documentation
 - https://www.moesif.com/blog/blockchain/ethereum/Tutorial-for-building-Ethereum-Dapp-with-Integrated-Error-Monitoring/
 
 - https://github.com/erowell/web3-learn
+
+- https://medium.com/scrappy-squirrels/tutorial-building-a-web3-frontend-with-react-e0a87ea3bad
+- https://medium.com/coinmonks/web3-react-connect-users-to-metamask-or-any-wallet-from-your-frontend-241fd538ed39
+- https://medium.com/@web3rb/your-first-web3-dapp-react-app-reading-real-ethereum-blockchain-database-6c7af06e85ea
+- https://medium.com/@stevelukis/integrating-react-website-to-ethereum-network-with-web3-js-case-study-nft-minting-website-ae94c4107adc
+- https://github.com/stevelukis/cafe-nft
+- https://www.dappuniversity.com/articles/ethereum-dapp-react-tutorial
+- https://dev.to/steadylearner/how-to-make-a-fullstack-dapp-with-react-hardhat-and-ether-js-with-examples-4fi2
+- https://blog.infura.io/dapp-frontend-network/
+- https://opentaps.org/2021/02/22/tutorial-building-an-ethereum-dapp-using-react-js-web3modal-ethers-hardhat/
+- https://maksimivanov.com/posts/ethereum-react-dapp-tutorial/
+- https://medium.com/@karin.chechik/create-a-blockchain-app-on-ethereum-dapp-with-react-and-solidity-a8f8c77b09a8
+- https://blog.logrocket.com/using-drizzle-react-write-dapp-frontends/
+- https://learn.figment.io/tutorials/build-a-social-media-dapp-and-deploy-it-on-polygon
+- https://blog.hkwtf.com/ethereum-dapp-tutorial-from-smart-contract-to-frontend-react-development-c0dd31337f1e
 
 ## Tutorials 
 - How to create a Smart Contract to mint an NFT : https://dev.to/emanuelferreira/how-to-create-a-smart-contract-to-mint-a-nft-2bbn
