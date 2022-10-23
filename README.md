@@ -229,6 +229,7 @@ Info and Documentation
 - https://blog.logrocket.com/using-drizzle-react-write-dapp-frontends/
 - https://learn.figment.io/tutorials/build-a-social-media-dapp-and-deploy-it-on-polygon
 - https://blog.hkwtf.com/ethereum-dapp-tutorial-from-smart-contract-to-frontend-react-development-c0dd31337f1e
+- https://docs.epns.io/developers
 
 ## Tutorials 
 - How to create a Smart Contract to mint an NFT : https://dev.to/emanuelferreira/how-to-create-a-smart-contract-to-mint-a-nft-2bbn
